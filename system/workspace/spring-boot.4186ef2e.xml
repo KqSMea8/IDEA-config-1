@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1807451317">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.open.time.9" value="2" />
+        <usage id="project.open.time.11" value="5" />
+        <usage id="project.open.time.22" value="2" />
+        <usage id="project.open.time.6" value="1" />
+        <usage id="project.open.time.7" value="3" />
+        <usage id="project.open.time.13" value="5" />
+        <usage id="project.open.time.4" value="3" />
+        <usage id="project.open.time.14" value="11" />
+        <usage id="project.closed" value="73" />
+        <usage id="project.open.time.15" value="10" />
+        <usage id="project.open.time.16" value="4" />
+        <usage id="project.open.time.3" value="1" />
+        <usage id="project.open.time.17" value="4" />
+        <usage id="project.opened" value="73" />
+        <usage id="project.open.time.1" value="3" />
+        <usage id="project.open.time.18" value="1" />
+        <usage id="project.open.time.23" value="3" />
+        <usage id="project.open.time.19" value="5" />
+        <usage id="project.open.time.27" value="2" />
+        <usage id="project.open.time.10" value="1" />
+        <usage id="project.open.time.2" value="1" />
+        <usage id="project.open.time.21" value="1" />
+        <usage id="project.open.time.20" value="1" />
+        <usage id="project.open.time.8" value="1" />
+        <usage id="project.open.time.24" value="1" />
+        <usage id="project.open.time.25" value="1" />
+        <usage id="project.open.time.12" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1-SNAPSHOT" value="5" />
+          <entry key="bat" value="1" />
+          <entry key="class" value="21" />
+          <entry key="html" value="4" />
+          <entry key="java" value="62" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="13" />
+          <entry key="xml" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="JAVA" value="209" />
+        <usage id="PLAIN_TEXT" value="5" />
+        <usage id="UML" value="7" />
+        <usage id="XML" value="92" />
+        <usage id="HTML" value="5" />
+        <usage id="CLASS" value="54" />
+        <usage id="Properties" value="41" />
+        <usage id="YAML" value="9" />
+        <usage id="Markdown" value="2" />
+        <usage id="Git file" value="2" />
+        <usage id="Mercurial file" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="14" />
+          <entry key="html" value="2" />
+          <entry key="java" value="1429" />
+          <entry key="properties" value="221" />
+          <entry key="txt" value="30" />
+          <entry key="xml" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="JAVA" value="1676" />
+        <usage id="PLAIN_TEXT" value="51" />
+        <usage id="XML" value="132" />
+        <usage id="HTML" value="2" />
+        <usage id="Properties" value="234" />
+        <usage id="YAML" value="9" />
+        <usage id="CLASS" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.terminalShell">
+        <usage id="local.exec" value="10">
+          <context>
+            <entry key="data_1" value="Windows" />
+            <entry key="data_2" value="Windows 10 10.0" />
+            <entry key="data_3" value="cmd" />
+          </context>
+        </usage>
+        <usage id="ssh.exec" value="2">
+          <context>
+            <entry key="data_1" value="Windows" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.searchEverywhere">
+        <usage id="dialogOpen" value="4">
+          <context>
+            <entry key="data_1" value="ClassSearchEverywhereContributor" />
+          </context>
+        </usage>
+        <usage id="dialogOpen" value="3">
+          <context>
+            <entry key="data_1" value="FileSearchEverywhereContributor" />
+          </context>
+        </usage>
+        <usage id="dialogOpen" value="8">
+          <context>
+            <entry key="data_1" value="SearchEverywhereContributor.All" />
+          </context>
+        </usage>
+        <usage id="dialogOpen" value="4">
+          <context>
+            <entry key="data_1" value="ActionSearchEverywhereContributor" />
+          </context>
+        </usage>
+        <usage id="tabSwitched" value="1">
+          <context>
+            <entry key="data_1" value="SymbolSearchEverywhereContributor" />
+            <entry key="data_2" value="mouseClick" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.build.maven.actions">
+        <usage id="RunBuildAction" value="69">
+          <context>
+            <entry key="data_1" value="Maven tool window" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="ReimportAction" value="2">
+          <context>
+            <entry key="data_1" value="Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="EditSettingsAction" value="1">
+          <context>
+            <entry key="data_1" value="Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="DownloadSelectedSourcesAction" value="1">
+          <context>
+            <entry key="data_1" value="Maven tool window" />
+            <entry key="data_2" value="fromContextMenu.true" />
+          </context>
+        </usage>
+        <usage id="MavenExecuteGoalAction" value="4">
+          <context>
+            <entry key="data_1" value="Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="CollapseAll" value="1">
+          <context>
+            <entry key="data_1" value="Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="MavenRunConfiguration" value="73">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="Remote" value="2">
+          <context>
+            <entry key="data_1" value="Debug" />
+          </context>
+        </usage>
+        <usage id="SpringBootApplicationConfigurationType" value="3">
+          <context>
+            <entry key="data_1" value="JRebel Executor" />
+          </context>
+        </usage>
+        <usage id="SpringBootApplicationConfigurationType" value="97">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="Application" value="13">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="JUnit" value="11">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="SpringBootApplicationConfigurationType" value="1">
+          <context>
+            <entry key="data_1" value="Debug" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.diagram.usages.trigger">
+        <usage id="show.diagram -&gt; MAVEN(Maven)" value="3" />
+        <usage id="show.diagram -&gt; JAVA(Java Class Diagrams)" value="3" />
+        <usage id="show.diagram -&gt; JIGSAW(Java Modules Diagram)" value="1" />
+        <usage id="show.diagram -&gt; SPRING(Spring Beans Dependencies)" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.debugger.breakpoints.usage">
+        <usage id="new.breakpoint" value="3" />
+        <usage id="new.java-line" value="3" />
+        <usage id="new.within.session" value="2" />
+        <usage id="verified.100+" value="1" />
+        <usage id="verified.1+" value="1" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="D:\IDEAWorkspace\Spring-boot" commandHistoryFileName="history-" />
+    </option>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="1592" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<application>
+  <component name="PasswordSafe">
+    <option name="PROVIDER" value="MEMORY_ONLY" />
+    <option name="rememberPasswordByDefault" value="false" />
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git1@193.112.10.38" method="password" />
+    <successfulAuthentication user="git2@193.112.10.38" method="password" />
+    <successfulAuthentication user="git@193.112.10.38" method="publickey" />
+  </component>
+</application>

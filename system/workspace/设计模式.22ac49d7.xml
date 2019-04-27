@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="-664697769">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.open.time.8" value="4" />
+        <usage id="project.open.time.10" value="8" />
+        <usage id="project.open.time.11" value="6" />
+        <usage id="project.open.time.6" value="1" />
+        <usage id="project.open.time.7" value="3" />
+        <usage id="project.closed" value="45" />
+        <usage id="project.open.time.2" value="7" />
+        <usage id="project.open.time.1" value="5" />
+        <usage id="project.opened" value="45" />
+        <usage id="project.open.time.9" value="3" />
+        <usage id="project.open.time.14" value="3" />
+        <usage id="project.open.time.3" value="1" />
+        <usage id="project.open.time.12" value="3" />
+        <usage id="project.open.time.13" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1471" />
+          <entry key="md" value="5" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="JAVA" value="1729" />
+        <usage id="XML" value="4" />
+        <usage id="Markdown" value="6" />
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="68" />
+          <entry key="md" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="JAVA" value="291" />
+        <usage id="XML" value="2" />
+        <usage id="Markdown" value="6" />
+        <usage id="PLAIN_TEXT" value="2" />
+        <usage id="CLASS" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="Application" value="109">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="SpringBootApplicationConfigurationType" value="9">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="MavenRunConfiguration" value="2">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="Application" value="6">
+          <context>
+            <entry key="data_1" value="Debug" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.searchEverywhere">
+        <usage id="dialogOpen" value="1">
+          <context>
+            <entry key="data_1" value="SymbolSearchEverywhereContributor" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.build.maven.actions">
+        <usage id="RunBuildAction" value="2">
+          <context>
+            <entry key="data_1" value="Maven tool window" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.terminalShell">
+        <usage id="ssh.exec" value="1">
+          <context>
+            <entry key="data_1" value="Windows" />
+          </context>
+        </usage>
+        <usage id="local.exec" value="1">
+          <context>
+            <entry key="data_1" value="Windows" />
+            <entry key="data_2" value="Windows 10 10.0" />
+            <entry key="data_3" value="cmd" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.debugger.breakpoints.usage">
+        <usage id="new.breakpoint" value="7" />
+        <usage id="new.java-method" value="2" />
+        <usage id="new.java-line" value="2" />
+        <usage id="new.java-exception" value="3" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+</project>

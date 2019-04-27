@@ -1,0 +1,149 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BackgroundImagesFolder" value="F:\idea主题&amp;插件" />
+    <property name="BackgroundImagesInterval" value="1" />
+    <property name="ColorChooser.RecentColors" value="112-111-109-255,,,190-255-118-255,,,18-30-49-255,,,28-63-65-255,,,255-197-26-255,,,112-125-102-255,,,121-125-112-255,,,94-82-101-255,,,91-101-97-255,,,99-95-105-255,,,62-62-62-255,,,83-83-83-255,,,102-110-103-255,,,108-110-93-255,,,101-102-110-255,,,109-110-77-255,,,110-94-80-255,,,154-156-147-255,,,94-96-87-255,,,50-89-61-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.643347" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConsoleQuickFilterPanel-expression" value="" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10958904" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12315271" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.14054814" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.16366611" />
+    <property name="FrameworksFinderRecursivePanel[4]" value="0.19569471" />
+    <property name="FrameworksFinderRecursivePanel[5]" value="0.24360536" />
+    <property name="INSPECTION_FILTER_HISTORY" value="autowired&#10;a&#10;javadoc&#10;unused&#10;neve used&#10;thy&#10;SQL" />
+    <property name="InstalledPluginsSearchHistory" value="Toolkit&#10;ssh" />
+    <property name="JUnit.Splitter.Proportion" value="0.14129244" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JUnitSupport.sortTestsByDuration" value="false" />
+    <property name="KEYMAP" value="todo&#10;fol&#10;format&#10;Basic&#10;Bas" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.11191942" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="restfult&#10;MyBatis Log Plugin&#10;grep console&#10;restfultookit&#10;lombok" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.19288175" />
+    <property name="ProjectStructure.TopLevelElements" value="0.14996545" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SearchEveryWhereHistory" value="savereportp&#10;elasticsearch.java&#10;Elasticsearch" />
+    <property name="SettingsSearchHistory" value="hints&#10;Code Completion&#10;completion&#10;case&#10;import" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.56" />
+    <property name="SplitFileEditor.Proportion" value="0.5297334" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10958904" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12315271" />
+    <property name="SpringMvcModulesPanel[0]" value="0.10958904" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="maven&#10;idea&#10;java&#10;mave" />
+    <property name="TrendingPluginsSearchHistory" value="Manipulation&#10;String&#10;Maven Helper&#10;Alibaba Cloud Toolkit&#10;Toolkit" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="android-component-compatibility-check" value="1526201836963" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.alibabacloud.intellij.deviceId_new" value="18a7cf04-c8ea-48f7-8785-2f77b7661549" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="0" />
+    <property name="dir.diff.space.button.info" value="2" />
+    <property name="eclipse.project.dir" value="E:\MyQQ接收文件\webLogAnalyse" />
+    <property name="eclipse.remote.project.storage" value="D:\IDEAWorkspace\IDEA-01\publicCount" />
+    <property name="entityPackName" value="com.pojo." />
+    <property name="errorCount" value="0" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.172" value="163fdb9122b" />
+    <property name="evlsprt2.172" value="16503641395" />
+    <property name="evlsprt3.172" value="10" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="export.settings.path" value="F:\idea主题\settings.jar" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="D:/IDEAWorkspace/Spring-boot/spring-boot-jsp&#10;D:/应用服务器/apache-tomcat-8.5.29&#10;C:/Users/LinQin/Desktop&#10;D:/IDEAWorkspace/Spring-boot&#10;F:/开源项目/oauth2-demo-master&#10;F:/开源项目/didispace-SpringBoot-Learning-master/SpringBoot-Learning/Chapter4-3-1&#10;C:/Users/LinQin/Desktop/spring-boot-jsp&#10;F:/IDEAWorkspace/ftps&#10;F:/apache-maven-3.1.1/conf/settings.xml&#10;D:/IDEAWorkspace/Spring-boot/spring-boot-thymeleaf&#10;F:/自动化部署学习/spring-boot-thymeleaf&#10;F:/自动化部署学习/spring-boot/spring-boot-thymeleaf&#10;D:/IDEAWorkspace/Java基础知识/IO&#10;C:/Users/LinQin/Desktop/spring-boot-quartz-demo-master&#10;E:/MyQQ接收文件/webLogAnalyse/pom.xml&#10;E:/MyQQ接收文件/webLogAnalyse&#10;C:/Users/LinQin/Desktop/MyQQ接收文件.lnk&#10;D:/IDEAWorkspace/Spring-boot/spring-boot-mybatis-generator&#10;F:/idea主题&amp;插件/p3c-formatter/eclipse-codetemplate.xml&#10;F:/idea主题&amp;插件/p3c-formatter/eclipse-codestyle.xml&#10;D:/IDEAWorkspace/elasticsearch/spring-boot-java-highlevel-rest-client-elasticsearch-develop&#10;D:/IDEAWorkspace/elasticsearch/ElasticSearchDemo-master&#10;D:/IDEAWorkspace/elasticsearch/eshelloword-booter-master&#10;D:/IDEAWorkspace/elasticsearch/elasticsearch-example-master&#10;D:/IDEAWorkspace/elasticsearch/elastic-demo-master&#10;D:/IDEAWorkspace/elasticsearch-6.0+/elasticsearch-6.2.4/home/logs&#10;C:/Users/LinQin/Desktop/springboot-elasticsearch-master&#10;D:/IDEAWorkspace/elasticsearch-6.0+/elasticsearch-6.2.4&#10;D:/IDEAWorkspace/elasticsearch-6.0+/elasticsearch-6.2&#10;D:/IDEAWorkspace/elasticsearch-6.0+/elasticsearch-2.4.6" />
+    <property name="file.gist.reindex.count" value="41400" />
+    <property name="fileTypeChangedCounter" value="14" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="generateComments" value="true" />
+    <property name="ignore.ide.set.hidpi.mode" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.10-release-IJ2018.3-1" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 7.0.73" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="775" />
+    <property name="last.imported.location" value="D:/IDEAWorkspace/Spring-boot/spring-boot-jsp" />
+    <property name="last.used.gradle.home" value="F:/gradle-4.10.2" />
+    <property name="lastTip" value="3" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="F:\idea主题&amp;插件\girl.jpg" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="F:\idea主题&amp;插件\mm.jpg&#10;F:\idea主题\girl.jpg&#10;F:\常用软件\eclipse-jee-mars-2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\833\0\.cp\icons\full\dlcl16\public_co.gif&#10;C:\Users\LinQin\Desktop\mm.jpg" />
+    <property name="param.hints.settings.last.edited.language" value="SQL" />
+    <property name="plugins.preselection.path" value="F:/idea主题" />
+    <property name="project.jdk.splitter" value="0.19288175" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="reuseEntity" value="false" />
+    <property name="selected.color.option.type" value="STATIC_FINAL_FIELD_IMPORTED_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="splitGenerate" value="false" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="suffixStr" value="Bean" />
+    <property name="ts.lib.d.ts.version" value="3.1.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="virgoMode" value="true" />
+  </component>
+</application>

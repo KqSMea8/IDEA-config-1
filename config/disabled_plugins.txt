@@ -1,0 +1,23 @@
+AntSupport
+CFML Support
+CloudBees
+CloudFoundry
+EclipseCodeFormatter
+Geronimo
+GlassFish
+JBoss
+com.alibabacloud.intellij.toolkit-intellij
+com.bruce.intellijpluin.stackoverflow
+com.intellij.drools
+com.intellij.flex
+com.intellij.jboss.arquillian
+com.intellij.jboss.core
+com.intellij.jbpm
+com.intellij.seam
+com.intellij.seam.pageflow
+com.intellij.seam.pages
+com.jetbrains.plugins.asp
+com.jiyuanime.ActivatePowerModeApplicationPlugin
+mobi.hsz.idea.gitignore
+org.jetbrains.android
+org.jetbrains.plugins.less

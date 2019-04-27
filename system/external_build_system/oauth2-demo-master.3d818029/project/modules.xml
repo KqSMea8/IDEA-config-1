@@ -1,0 +1,12 @@
+<project>
+  <component name="ExternalModuleListStorage">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authorization-code/aiqiyi/aiqiyi.iml" filepath="$PROJECT_DIR$/authorization-code/aiqiyi/aiqiyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-code/authorization-code.iml" filepath="$PROJECT_DIR$/authorization-code/authorization-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-credentials/client-credentials.iml" filepath="$PROJECT_DIR$/client-credentials/client-credentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-credentials-springboot2/client-credentials-springboot2.iml" filepath="$PROJECT_DIR$/client-credentials-springboot2/client-credentials-springboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-demo.iml" filepath="$PROJECT_DIR$/oauth2-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-code/qq/qq.iml" filepath="$PROJECT_DIR$/authorization-code/qq/qq.iml" />
+    </modules>
+  </component>
+</project>

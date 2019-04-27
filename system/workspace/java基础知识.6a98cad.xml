@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="945113847">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.open.time.8" value="11" />
+        <usage id="project.open.time.10" value="5" />
+        <usage id="project.open.time.9" value="18" />
+        <usage id="project.open.time.11" value="5" />
+        <usage id="project.open.time.6" value="3" />
+        <usage id="project.open.time.7" value="5" />
+        <usage id="project.open.time.4" value="3" />
+        <usage id="project.open.time.5" value="1" />
+        <usage id="project.closed" value="66" />
+        <usage id="project.open.time.3" value="2" />
+        <usage id="project.opened" value="66" />
+        <usage id="project.open.time.1" value="6" />
+        <usage id="project.open.time.2" value="4" />
+        <usage id="project.open.time.14" value="1" />
+        <usage id="project.open.time.13" value="1" />
+        <usage id="project.open.time.12" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="html" value="5" />
+          <entry key="java" value="78" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="JAVA" value="272" />
+        <usage id="PLAIN_TEXT" value="2" />
+        <usage id="XML" value="3" />
+        <usage id="HTML" value="5" />
+        <usage id="CLASS" value="12" />
+        <usage id="Properties" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="32" />
+          <entry key="java" value="2694" />
+          <entry key="txt" value="20" />
+          <entry key="xml" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="JAVA" value="2861" />
+        <usage id="PLAIN_TEXT" value="20" />
+        <usage id="XML" value="58" />
+        <usage id="HTML" value="32" />
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="Application" value="149">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="Application" value="27">
+          <context>
+            <entry key="data_1" value="Debug" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.debugger.breakpoints.usage">
+        <usage id="new.breakpoint" value="14" />
+        <usage id="new.java-line" value="11" />
+        <usage id="new.java-method" value="3" />
+        <usage id="new.within.session" value="2" />
+        <usage id="verified.10+" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.build.maven.actions">
+        <usage id="MavenExecuteGoalAction" value="1">
+          <context>
+            <entry key="data_1" value="Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/gradle/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/gradle/build.gradle" value="2878972501" />
+        <entry key="$PROJECT_DIR$/gradle/settings.gradle" value="2386708115" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="726" />
+  </component>
+</project>

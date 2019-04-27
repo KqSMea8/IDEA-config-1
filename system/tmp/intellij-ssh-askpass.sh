@@ -1,0 +1,2 @@
+#!/bin/sh
+"D:/Program Files/JetBrains/IntelliJ IDEA 2018.3.1/jre64/bin/java" -cp "D:/Program Files/JetBrains/IntelliJ IDEA 2018.3.1/plugins/git4idea/lib/git4idea-rt.jar;D:/Program Files/JetBrains/IntelliJ IDEA 2018.3.1/lib/xmlrpc-2.0.1.jar;D:/Program Files/JetBrains/IntelliJ IDEA 2018.3.1/lib/commons-codec-1.10.jar;D:/Program Files/JetBrains/IntelliJ IDEA 2018.3.1/lib/util.jar" org.jetbrains.git4idea.nativessh.GitNativeSshAskPassApp "$@"

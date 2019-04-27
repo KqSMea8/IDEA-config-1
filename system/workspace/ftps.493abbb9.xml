@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="1201136807">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="7" />
+        <usage id="project.open.time.4" value="1" />
+        <usage id="project.closed" value="7" />
+        <usage id="project.open.time.8" value="1" />
+        <usage id="project.open.time.10" value="1" />
+        <usage id="project.open.time.9" value="1" />
+        <usage id="project.open.time.1" value="3" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="XML" value="2" />
+        <usage id="JAVA" value="6" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="XML" value="9" />
+        <usage id="JAVA" value="21" />
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="Application" value="12">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="MavenRunConfiguration" value="26">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.build.maven.actions">
+        <usage id="RunBuildAction" value="19">
+          <context>
+            <entry key="data_1" value="Maven tool window" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="ReimportAction" value="1">
+          <context>
+            <entry key="data_1" value="Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="MavenExecuteGoalAction" value="9">
+          <context>
+            <entry key="data_1" value="Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.debugger.breakpoints.usage">
+        <usage id="new.breakpoint" value="1" />
+        <usage id="new.java-line" value="1" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+</project>
