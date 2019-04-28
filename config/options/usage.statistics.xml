@@ -410,7 +410,7 @@
       <entry action="ShowRecentTests" count="7" />
       <entry action="ShowReformatFileDialog" count="5" />
       <entry action="ShowRegistry" count="1" />
-      <entry action="ShowSettings" count="427" />
+      <entry action="ShowSettings" count="428" />
       <entry action="ShowSiblings" count="2" />
       <entry action="ShowTips" count="2" />
       <entry action="ShowUmlDiagram" count="37" />
@@ -583,7 +583,7 @@
         <usage id="ide.close.restart" value="16" />
         <usage id="ide.error" value="17" />
         <usage id="ide.freeze.157" value="1" />
-        <usage id="ide.close" value="210" />
+        <usage id="ide.close" value="211" />
         <usage id="ide.freeze.16" value="1" />
         <usage id="ide.freeze.27" value="1" />
         <usage id="ide.freeze.38" value="1" />
@@ -591,7 +591,7 @@
         <usage id="ide.freeze.18" value="1" />
         <usage id="ide.freeze.13" value="2" />
         <usage id="ide.freeze.24" value="1" />
-        <usage id="ide.start" value="210" />
+        <usage id="ide.start" value="211" />
         <usage id="ide.freeze.12" value="1" />
         <usage id="ide.freeze.15" value="1" />
         <usage id="ide.freeze.26" value="3" />
@@ -945,7 +945,7 @@
       <entry shortcut="Ctrl+Alt+O" count="3" />
       <entry shortcut="Ctrl+Alt+P" count="11" />
       <entry shortcut="Ctrl+Alt+Right" count="89" />
-      <entry shortcut="Ctrl+Alt+S" count="318" />
+      <entry shortcut="Ctrl+Alt+S" count="319" />
       <entry shortcut="Ctrl+Alt+Shift+A" count="2" />
       <entry shortcut="Ctrl+Alt+Shift+L" count="5" />
       <entry shortcut="Ctrl+Alt+Shift+N" count="11" />
@@ -1137,7 +1137,7 @@
       <entry toolWindow="Java Enterprise by Activation" count="5" />
       <entry toolWindow="Messages by Activation" count="24" />
       <entry toolWindow="Persistence by Activation" count="3" />
-      <entry toolWindow="Project by Activation" count="433" />
+      <entry toolWindow="Project by Activation" count="434" />
       <entry toolWindow="Remote Host by Activation" count="12" />
       <entry toolWindow="Run Dashboard by Activation" count="117" />
       <entry toolWindow="Run by Activation" count="441" />

@@ -64,6 +64,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="PLUGIN_FILTER" value="restfult&#10;MyBatis Log Plugin&#10;grep console&#10;restfultookit&#10;lombok" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.19288175" />
     <property name="ProjectStructure.TopLevelElements" value="0.14996545" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
